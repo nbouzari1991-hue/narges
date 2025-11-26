@@ -1,19 +1,1 @@
-name: granite_bot_full
-description: GraniteBot full mobile app (MVP-C)
-version: 0.1.0
-environment:
-  sdk: ">=2.17.0 <3.0.0"
 
-dependencies:
-  flutter:
-    sdk: flutter
-  cupertino_icons: ^1.0.2
-  http: ^0.13.4
-  image_picker: ^0.8.4+3
-  flutter_secure_storage: ^8.0.0
-  intl: ^0.17.0
-
-flutter:
-  uses-material-design: true
-  assets:
-    - assets/images/
